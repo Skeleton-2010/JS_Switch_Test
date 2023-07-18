@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: crosshair;
+}
+
+input{
+    padding: 4px;
+    border: 1px solid #ff0;
+    color: #ff0;
+}
+
+h1,h2,h3,h4,h5,p,b,i,strong,del,mark,small{
+    color: #ff0;
+}
+
+div{
+    padding: 8px;
+    color: #ff0;
+}
+
+.drinks{
+    width: 64px;
+    border: 1px solid #ff0;
+}
+
+button{
+    padding: 4px;
+    color: #ff0;
+    border: 1px solid #ff0;
+}
+
+.Operate{
+    display: flex;
+    width: 128px;
+    flex-direction: column;
+}
